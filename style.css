@@ -199,13 +199,13 @@ margin-bottom: 0px;
 }
 
 .fact-text {
-  font-size: 24px;
+  font-size: 30px;
   max-width: 700x;
   margin: 20px auto 0;
   line-height:1;
 }
 .who {
-  padding: 100px 200px;
+  padding: 120px 200px;
   background: #ffffff;
   text-align: center;
 }
